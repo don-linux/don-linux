@@ -22,15 +22,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Frontend](https://github.com/don-linux/QualityTechnology-Frontend)<br>
-3. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Frontend](https://github.com/don-linux/QualityTechnology-Frontend)<br>
-5. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Frontend](https://github.com/don-linux/QualityTechnology-Frontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
+4. ⬆️ Pushed undefined commit(s) to [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
+5. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Frontend](https://github.com/don-linux/QualityTechnology-Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 26th, 2026, 6:56:05 PM
+Last Updated: Monday, April 27th, 2026, 7:23:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
