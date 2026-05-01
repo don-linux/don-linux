@@ -25,12 +25,12 @@ This technologies and tools are part of my daily work:
 1. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
 2. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
 3. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
-4. ⬆️ Pushed undefined commit(s) to [don-linux/devcontainers](https://github.com/don-linux/devcontainers)<br>
-5. ⬆️ Pushed undefined commit(s) to [don-linux/devcontainers](https://github.com/don-linux/devcontainers)<br>
+4. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
+5. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 7:22:43 PM
+Last Updated: Friday, May 1st, 2026, 7:12:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
