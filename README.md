@@ -22,15 +22,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
-2. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
-3. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
-4. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
-5. ⬆️ Pushed undefined commit(s) to [don-linux/cursor-usage-pricing](https://github.com/don-linux/cursor-usage-pricing)<br>
+1. ⬆️ Pushed undefined commit(s) to [don-linux/CursorUsageTracker](https://github.com/don-linux/CursorUsageTracker)<br>
+2. ⬆️ Pushed undefined commit(s) to [don-linux/CursorUsageTracker](https://github.com/don-linux/CursorUsageTracker)<br>
+3. ⬆️ Pushed undefined commit(s) to [don-linux/CursorUsageTracker](https://github.com/don-linux/CursorUsageTracker)<br>
+4. ⬆️ Pushed undefined commit(s) to [don-linux/CursorUsageTracker](https://github.com/don-linux/CursorUsageTracker)<br>
+5. ⬆️ Pushed undefined commit(s) to [don-linux/CursorUsageTracker](https://github.com/don-linux/CursorUsageTracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 7:46:33 PM
+Last Updated: Thursday, May 7th, 2026, 7:43:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
