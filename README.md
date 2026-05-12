@@ -22,15 +22,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
-2. 💪 Opened PR [#1](undefined) in [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
+1. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
-4. ⬆️ Pushed undefined commit(s) to [don-linux/LinuxWizards](https://github.com/don-linux/LinuxWizards)<br>
-5. ⬆️ Pushed undefined commit(s) to [don-linux/LinuxWizards](https://github.com/don-linux/LinuxWizards)<br>
+4. 💪 Opened PR [#1](undefined) in [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
+5. ⬆️ Pushed undefined commit(s) to [don-linux/fundamentos-python](https://github.com/don-linux/fundamentos-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 7:48:11 PM
+Last Updated: Tuesday, May 12th, 2026, 7:53:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
