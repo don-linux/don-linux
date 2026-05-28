@@ -22,15 +22,15 @@ This technologies and tools are part of my daily work:
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [don-linux/SingleSourceOfTruth](https://github.com/don-linux/SingleSourceOfTruth)<br>
-2. ⬆️ Pushed undefined commit(s) to [don-linux/SingleSourceOfTruth](https://github.com/don-linux/SingleSourceOfTruth)<br>
-3. ⬆️ Pushed undefined commit(s) to [don-linux/SingleSourceOfTruth](https://github.com/don-linux/SingleSourceOfTruth)<br>
-4. ⬆️ Pushed undefined commit(s) to [don-linux/SingleSourceOfTruth](https://github.com/don-linux/SingleSourceOfTruth)<br>
-5. ⬆️ Pushed undefined commit(s) to [don-linux/SingleSourceOfTruth](https://github.com/don-linux/SingleSourceOfTruth)<br>
+1. ⬆️ Pushed undefined commit(s) to [Masterwars117/sanciones-backend](https://github.com/Masterwars117/sanciones-backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [Masterwars117/sanciones-backend](https://github.com/Masterwars117/sanciones-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [don-linux/QualityTechnology-Backend](https://github.com/don-linux/QualityTechnology-Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 27th, 2026, 8:18:21 PM
+Last Updated: Thursday, May 28th, 2026, 8:23:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 Stats
